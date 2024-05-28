@@ -1,0 +1,56 @@
+1. public static void main(String[] args) {
+  	String name = null;
+     	Optional<String> of = Optional.of(name);   System.out.println(of);
+   }
+
+	a.null
+	b.0
+	c.NullPointerException
+	
+Correct answer: c
+
+2. public static void main(String[] args) {
+	Optional<String> empty = Optional.empty();
+	System.out.println(empty);
+   }
+
+	a.null
+	b.0
+	c.NullPointerException
+	d.Optional.empty
+
+Correct answer: d
+
+3. Optional.of() java 8 feature is
+
+	a.Used to ensure that there is no null, if null is entered, NullPointerException
+	b.May or may not be null. Used to respond flexibly
+
+Correct answer: a
+
+4. Optional.ofNullable() java 8 feature is
+
+	a.Used to ensure that there is no null, if null is entered, NullPointerException
+	b.May or may not be null. Used to respond flexibly
+
+Correct answer: b
+
+5. What is the purpose of Optional class in java?
+
+	a.To create a collection of optional objects
+	b.To perform functional programming operations
+	c.To handle null values and prevent null pointer exceptions
+
+Correct answer: c
+
+6. Java 8 Features - Optional, How many ways to crate an optional?
+
+	a.1
+	b.2
+	c.3
+	d.4
+
+Correct answer: c
+
+
+	
