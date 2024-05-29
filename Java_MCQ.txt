@@ -65,4 +65,22 @@ Correct answer: c
 
 Correct answer: d
 
-	
+8. public class Interview2 {
+
+	int number = 20;
+	Interview2()
+	{
+	    number = 10;
+	}
+	public static void main(String[] args) {
+		Interview2 interview = new Interview2();
+		System.out.println(interview.number);	
+	}
+}
+
+	a.10
+	b.20
+	c.Compiler error
+	d.Exception
+
+Correct answer: a
