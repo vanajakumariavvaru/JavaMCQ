@@ -84,3 +84,20 @@ Correct answer: d
 	d.Exception
 
 Correct answer: a
+
+9. public class OptionalIfIsPresent {
+
+	public static void main(String[] args) {
+		String[] names = new String[5];
+		Optional<String> opt = Optional.ofNullable(names[4]);
+		if(opt.isPresent()) System.out.println(names[4]);
+		else System.out.println("value is null");
+	}
+   }
+
+	a.10
+	b.20
+	c.Compiler error
+	d.Exception
+
+Correct answer: a
