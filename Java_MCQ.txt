@@ -95,9 +95,8 @@ Correct answer: a
 	}
    }
 
-	a.10
-	b.20
-	c.Compiler error
-	d.Exception
+	a.NullPointerException
+	b.null
+	c.value is null
 
-Correct answer: a
+Correct answer: c
