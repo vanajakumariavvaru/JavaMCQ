@@ -52,5 +52,17 @@ Correct answer: c
 
 Correct answer: c
 
+7. public static void main(String[] args) {
+	String name = "java";
+	Optional<String> of1 = Optional.ofNullable(name);
+	System.out.println(of1);
+   }
+  
+	a.null
+	b.0
+	c.NullPointerException
+	d.Optional.empty
+
+Correct answer: d
 
 	
