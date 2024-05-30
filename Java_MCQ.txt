@@ -100,3 +100,35 @@ Correct answer: a
 	c.value is null
 
 Correct answer: c
+
+10. public class OptionalIfPresent {
+
+	public static void main(String[] args) {
+		String[] names = {"a", "b", "c", "d", "e"};
+		Optional<String> opt = Optional.ofNullable(names[4]);
+		opt.ifPresent(s -> System.out.println(s));
+	}
+}
+
+	a.NullPointerException
+	b.true
+	c.e
+	d.false
+
+Correct answer: c
+
+11. public class OptionalOrElse {
+
+	public static void main(String[] args) {
+		String[] names = {"a", "b", "c", "d", null, "f"};
+		Optional<String> opt = Optional.ofNullable(names[4]);
+		System.out.println(opt.orElse("Default"));
+	}
+}
+
+	a.null
+	b.Default
+	c.e
+	d.NullPointerException
+
+Correct answer: b
