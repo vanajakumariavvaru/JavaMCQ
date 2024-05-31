@@ -176,5 +176,11 @@ Correct answer: b
 
 Correct answer: b
 
-	
+17. Which interface is used to define a thread in Java?	
 
+	a.Runnable
+	b.Threable
+	c.Executor
+	d.Processor
+
+Correct answer: a
