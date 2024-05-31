@@ -132,3 +132,30 @@ Correct answer: c
 	d.NullPointerException
 
 Correct answer: b
+
+12. Since Java 21, can we use Simple HelloWorld program without class name and PSVM method?
+
+	a.True
+	b.False
+
+Correct answer: a
+
+13. Which keyword is used to create a thread in Java?
+
+	a.new
+	b.class
+	c.thread
+	d.start
+
+Correct answer: c
+
+14. Which method is used to start a thread in Java?
+
+	a.run()
+	b.start()
+	c.execute()
+	d.begin()
+
+Correct answer: start()
+
+15. 
