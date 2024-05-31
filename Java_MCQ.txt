@@ -167,3 +167,11 @@ Correct answer: b
 
 Correct answer: b
 
+16. What does the Runnable interface contain?
+
+	a.Multiple methods
+	b.Only the run() method
+	c.A Variable
+	d.Several Constructors
+
+Correct answer: b
