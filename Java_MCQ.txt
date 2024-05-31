@@ -156,6 +156,14 @@ Correct answer: c
 	c.execute()
 	d.begin()
 
-Correct answer: start()
+Correct answer: b
 
-15
+15.Can we call the run() method directly to start a thread?
+
+	a.Yes
+	b.No
+	c.Only certain conditions
+	d.Only after calling start()
+
+Correct answer: b
+
