@@ -158,4 +158,4 @@ Correct answer: c
 
 Correct answer: start()
 
-15. 
+15
