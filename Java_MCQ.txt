@@ -263,3 +263,24 @@ Correct answer: d
 	d.num1!=num2  num3!=num4
 
 Correct answer: b
+
+22. public static void main(String[] args) {
+  	int $_ = 5;
+  	System.out.println($_); 
+    }
+
+	a.Compiletime error
+	b.5
+	c.Runtime Error
+
+Correct answer: b
+
+23. public static final void main(String[] args) {
+  	System.out.println("Java");
+    }
+
+	a.Compiletime error
+	b.Java
+	c.Runtime Error
+
+Correct answer: b
