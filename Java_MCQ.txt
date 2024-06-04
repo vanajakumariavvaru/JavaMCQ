@@ -284,3 +284,12 @@ Correct answer: b
 	c.Runtime Error
 
 Correct answer: b
+
+24. @SpringBootApplication annotation is == @Configuration, @EnableAutoConfiguration, @ComponentScan
+
+	a.True
+	b.False
+
+Correct answer: a
+By using the @SpringBootApplication annotation, developers can write less code and make their code easier to read and understand. 
+
