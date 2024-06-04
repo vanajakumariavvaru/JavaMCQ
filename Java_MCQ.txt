@@ -293,3 +293,4 @@ Correct answer: b
 Correct answer: a
 By using the @SpringBootApplication annotation, developers can write less code and make their code easier to read and understand. 
 
+25. 
