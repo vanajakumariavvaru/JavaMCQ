@@ -293,4 +293,17 @@ Correct answer: b
 Correct answer: a
 By using the @SpringBootApplication annotation, developers can write less code and make their code easier to read and understand. 
 
-25. 
+25. public static void main(String[] args)
+    {
+	String str = "!!!emitefil a tsal dluoc ti meht rof tub, yas ot sdnoces ekat yam ti meht llet , enoemos ni lufituaeb gnihtemos ees uoy nehw";
+	char[] ch = str.toCharArray();
+        for (int i=ch.length-1;i>=0;i--)
+        System.out.print(ch[i]);
+    }
+
+	a.Compiletime error
+	b.String is reversed characterwise
+	c.Runtime Error
+
+Correct answer: b
+
