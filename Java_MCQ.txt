@@ -307,3 +307,18 @@ By using the @SpringBootApplication annotation, developers can write less code a
 
 Correct answer: b
 
+26. public static void main(String[] args) {
+		System.out.println("hello");
+	}
+    
+	public static void main(String args) {
+		System.out.println("hi");
+	}
+
+	a.Compiletime error
+	b.hello
+	c.Runtime Error
+	d.hi
+	e.hello hi
+
+Correct answer: b
