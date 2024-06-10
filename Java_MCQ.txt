@@ -322,3 +322,21 @@ Correct answer: b
 	e.hello hi
 
 Correct answer: b
+
+27. The java 5 feature has been introduced in Spring ------ version?
+
+	a.Spring 2.5
+	b.Spring 2.0
+	c.Spring 3.0
+	d.Spring 4.0
+
+Correct answer: b
+
+28. In Spring, what is the scope of a stateful bean is correct?
+
+	a.Singleton scope
+	b.Prototype scope
+	c.Singleton scope and Prototype scope
+	d.None of the above
+
+Correct answer: a
