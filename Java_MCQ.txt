@@ -387,4 +387,35 @@ Correct answer: a
 	  num3 !== num4
 
 Correct answer: a
+
+32.public static void main(String[] args) {
+		int $_ = 5;
+		System.out.println($_);
+	}
+
+	a.5
+	b.Compiler error
+	c.Runtime Error
 	
+Correct answer: a
+
+33.public static void main(String[] args) {
+		System.out.println('j' + 'a' + 'v' + 'a');
+   }
+	
+	a.java
+	b.Compiler error
+	c.Runtime Error
+	d.418
+	
+Correct answer: d
+
+34.public static final void main(String[] args) {
+		System.out.println("Java");
+   }
+
+	a.java
+	b.Compiler error
+	c.Runtime Error
+	
+Correct answer: a
