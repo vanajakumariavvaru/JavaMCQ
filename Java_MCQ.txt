@@ -334,9 +334,25 @@ Correct answer: b
 
 28. In Spring, what is the scope of a stateful bean is correct?
 
-	a.Singleton scope
-	b.Prototype scope
-	c.Singleton scope and Prototype scope
-	d.None of the above
+		a.Singleton scope
+		b.Prototype scope
+		c.Singleton scope and Prototype scope
+		d.None of the above
+	
+	Correct answer: a
+
+29. API stands for
+
+	a.Application programming Interface
+	b.Application programming Interaction
+	
+Correct answer: a
+
+30. REST API stands for
+
+	a.Representational State Transfer Application programming
+	b.Rest Application Programming Interface
+	c.Request State Transfer Application Programming Interface
+	d.Request Endpoint Application Programming Interface
 
 Correct answer: a
