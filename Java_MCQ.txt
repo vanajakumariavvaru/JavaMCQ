@@ -461,4 +461,26 @@ Correct answer: b
 Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
 Type mismatch: cannot convert from int to short.
 
-38. 
+38. public static void main(String[] args) {
+		String s = "ONE"+1+2+"TWO"+"THREE"+3+4+"FOUR"+"FIVE"+5;
+		System.out.println(s);		
+    }
+
+	a.ONE12TWOTHREE34FOURFIVE5
+	b.ONE5TWOTHREE7FOURFIVE5
+	
+Correct answer: a
+
+39. public static void main(String[] args) {
+		if(1+1+1+1+1 == 5) {
+			System.out.println("True");
+		}
+		else {
+			System.out.println("False");
+		}
+    }
+
+	a.True
+	b.False
+	
+Correct answer: a
