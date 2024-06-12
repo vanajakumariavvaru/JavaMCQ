@@ -484,3 +484,11 @@ Correct answer: a
 	b.False
 	
 Correct answer: a
+
+40. What is the default container in Spring Boot?
+
+	a.Tomcat
+	b.Jetty
+	c.Undertow
+	
+Correct answer: a
