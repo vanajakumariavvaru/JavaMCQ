@@ -492,3 +492,19 @@ Correct answer: a
 	c.Undertow
 	
 Correct answer: a
+
+41. What is META-INF?
+
+	a.Public directory having static resources like HTML, Images, JS files
+	b.Private directory cann't be accessed from outside
+	
+Correct answer: b
+
+42. What is WEB-INF?
+
+	a.Public directory having static resources like HTML, Images, JS files
+	b.Private directory cann't be accessed from outside
+	
+Correct answer: a
+
+
