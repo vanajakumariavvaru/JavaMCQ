@@ -507,4 +507,17 @@ Correct answer: b
 	
 Correct answer: a
 
+43. YAML stands for?
 
+	a.Yet Another Markup Language
+	b.Yet Another Machine Language
+	
+Correct answer: a
+
+44. How to run SpringBoot application to custom port?
+
+	a.In application.properties, add server.port = 8181
+	b.In application.yml file, add server:port: 8181
+	c. All of the above
+
+Correct answer: c
