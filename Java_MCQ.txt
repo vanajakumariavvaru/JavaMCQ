@@ -521,3 +521,35 @@ Correct answer: a
 	c. All of the above
 
 Correct answer: c
+
+45. public static void main(String[] args) {
+		System.out.println("hi");
+		http://www.payilagam.com
+		System.out.println("hello");
+    }
+
+	a.hi
+          hello
+	b.Compiler Error
+	c.Runtime Error
+	
+Correct answer: a
+
+46. public static void main(String[] args) {
+		final String hi = "Hi: 5";
+		final String hello = "Hi: " + hi.length();
+		System.out.println(hi);
+		System.out.println(hello);
+     		System.out.println(hi == hello);
+   }
+
+	a.Hi: 5
+	  Hi: 5
+	  false
+	b.Compiler Error
+	c.Runtime Error
+	d.Hi: 5
+	  Hi: 5
+	  True
+	
+Correct answer: a
