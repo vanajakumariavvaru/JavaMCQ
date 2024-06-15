@@ -553,3 +553,44 @@ Correct answer: a
 	  True
 	
 Correct answer: a
+
+47. public static void main(String[] args) {
+		 System.out.println(null == null); 
+		 System.out.println(null != null); 
+    }
+
+	a.true
+	  false
+	b.true
+	  true
+	c.false
+	  true
+	d.true
+	  true
+
+Correct answer: a
+
+48. public static void main(String[] args) {
+		byte n = 126;
+		
+		System.out.println("Sum: "+ n);
+		n++;
+		System.out.println("Sum: "+ n);
+		n++;
+		System.out.println("Sum: "+ n);
+		n++;
+		System.out.println("Sum: "+ n);
+	}
+
+	a.Sum: 126
+	  Sum: 127
+	  Sum: -128
+	  Sum: -127
+	b.Sum: 127
+	  Sum: 128
+          Sum: 129
+          Sum: 130
+	c.Compiler Error
+	d.Runtime Error
+
+Correct answer: a
