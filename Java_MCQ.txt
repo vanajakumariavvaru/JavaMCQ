@@ -594,3 +594,21 @@ Correct answer: a
 	d.Runtime Error
 
 Correct answer: a
+
+49. public static void main(String[] args) {
+		boolean b = 77 == 7_7;
+		if(b){
+			System.out.println("Underscore");
+		}
+		else{
+			System.out.println("Not an Underscore");
+		}
+    }
+
+	a.Underscore
+	b.Not an Underscore
+	c.Compiler Error
+	d.Runtime Error
+
+Correct answer: a
+
