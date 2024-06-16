@@ -639,3 +639,26 @@ Correct answer: c
 	e.Runtime Error
 
 Correct answer: b
+
+52. public static void main(String[] args) {
+		int a = 5; 
+		if(a==5) 
+		 System.out.println("5 is equal");
+		else 
+		 System.out.println("5 is not equal");
+		 System.out.println("how");
+		 System.out.println("are");
+		 System.out.println("you");
+		 System.out.println("hello");
+	}
+
+	a.5 is equal
+	  how
+          are
+          you
+          hello
+	b.5 is equal
+	c.Compiler Error
+	d.Runtime Error
+
+Correct answer: a
