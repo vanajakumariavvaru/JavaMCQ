@@ -662,3 +662,12 @@ Correct answer: b
 	d.Runtime Error
 
 Correct answer: a
+
+53. Which Annotation is applied to a bean so that the bean is not created and injected until it is needed. It can help speed up startup time for your application.
+
+	a.@Eager
+	b.@Immediate
+	c.@Lazy
+	d.All of the above
+
+Correct answer: c
