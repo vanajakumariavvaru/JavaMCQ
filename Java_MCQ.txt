@@ -671,3 +671,22 @@ Correct answer: a
 	d.All of the above
 
 Correct answer: c
+
+54. What is the primary goal of Spring Boot?
+
+	a.To provide a set of Java APIs for Windows Application
+	b.To support web development with PHP
+	c.To create stand-alone, Production-grade Spring-based Applications
+	d.To enhance the performance of Java Virtual Machine
+
+Correct answer: c
+
+55. Which version of Java is required for Spring Boot 3?
+
+	a.Java 8
+	b.Java 11
+	c.Java 17
+	d.Java 21
+
+Correct answer: c
+
