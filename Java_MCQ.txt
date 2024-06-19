@@ -768,3 +768,32 @@ Correct answer: a
 	c.Runtime Error 
 
 Correct answer: b
+
+62. public static void main(String[] args) {
+	final int a = 10;
+	int b = 11;  
+	a++;
+	b++;
+	int c = a+b;
+	System.out.println(c);
+   }
+
+	a.23
+	b.Compiler error
+	c.Runtime Error 
+
+Correct answer: b
+
+63. public static void main(String[] args) {
+		System.out.println(10/0);
+		System.out.println(10.0/0.0);
+    }
+
+	a.10
+	b.Compiler error
+	c.Runtime Error 
+	d.0
+
+Correct answer: c
+
+
