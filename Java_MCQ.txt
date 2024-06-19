@@ -728,4 +728,30 @@ Correct answer: a
 
 Correct answer: e
 
-	
+59. public static void main(String[] args) {
+	int a = 10;
+	int b = 30;
+	int ans = (a>b)? 5 : "false";
+	System.out.println(ans);
+    }	
+
+	a.0
+	b.5
+	c.false
+	d.Compiler error
+
+Correct answer: d
+
+60. public static void main(String[] args) {
+	int a = 10;
+	int b = 30;
+	int ans = (a>b)? 5 : 8;
+	System.out.println(ans);
+    }	
+
+	a.8
+	b.5
+	c.Runtime Error 
+	d.Compiler error
+
+Correct answer: a
