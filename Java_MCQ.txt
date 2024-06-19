@@ -796,4 +796,47 @@ Correct answer: b
 
 Correct answer: c
 
+64. public static void main(String[] args) {
+	String a = "Java";
+	String b = "" + "Java";
+	String c = " " + "Java";
+	System.out.println(a.equals(b));
+	System.out.println(a.equals(c));
+   }
 
+	a.true
+	  false
+	b.true 
+	  true
+	c.false
+	  false
+
+Correct answer: a
+
+65. public static void main(String[] args) {
+	for(int i=0; true; i++) {
+	System.out.println("Hello"); 
+	break;
+     } 
+   }
+
+	a.Hello
+	b.Compiler error
+	c.Runtime Error 
+
+Correct answer: a
+
+66. public static void main(String[] args) {
+	int i = 1;
+	while(i == 1) {
+		System.out.println(i);
+	}
+    }
+
+	a.1
+	b.Compiler error
+	c.Runtime Error
+	d.Infinite Loop 
+
+Correct answer: d
+		
