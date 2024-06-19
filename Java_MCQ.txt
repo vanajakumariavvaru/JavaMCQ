@@ -717,3 +717,15 @@ Correct answer: a
 	d.Compiler error
 
 Correct answer: a
+
+58. What is Lombok in Java?
+
+	a.Java Library 
+	b.It reduces the boilerplate.
+	c.It replaces boilerplate code with easy-to-use annotations.
+	d.It makes code easier to read and less error-prone.
+	e.All of the above
+
+Correct answer: e
+
+	
