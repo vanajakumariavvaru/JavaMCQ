@@ -755,3 +755,16 @@ Correct answer: d
 	d.Compiler error
 
 Correct answer: a
+
+61. public static void main(String[] args) {
+	int a = 10;
+	double b = 10;
+	a = b;
+	System.out.println(a);
+    }
+
+	a.10
+	b.Compiler error
+	c.Runtime Error 
+
+Correct answer: b
