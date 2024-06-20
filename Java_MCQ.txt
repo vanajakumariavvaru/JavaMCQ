@@ -839,4 +839,13 @@ Correct answer: a
 	d.Infinite Loop 
 
 Correct answer: d
-		
+
+67. What Annotation of Lombok is used to automatically generates getters, setters, equals, toString, hashCode and many more in SpringBoot?
+
+	a.@Data
+	b.@Lombok
+	c.@Automate
+	d.@AutoLombak
+
+Correct answer: a
+
