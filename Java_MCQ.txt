@@ -849,3 +849,26 @@ Correct answer: d
 
 Correct answer: a
 
+68. public static void main(String[] args) {
+		int a = ' ';
+		System.out.println(a);
+		for(int i = 0; i < 5; i++) {
+			System.out.println(i + ' ');
+		}
+   }
+
+	a.Compiler error
+	b.32
+	  33
+	  34
+	  35
+          36
+	c.0
+	  1
+	  2
+  	  3
+	  4
+	d.null
+
+Correct answer: b
+
