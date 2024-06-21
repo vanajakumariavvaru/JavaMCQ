@@ -872,3 +872,20 @@ Correct answer: a
 
 Correct answer: b
 
+69. What Annotation of Lombok is used to generate a constructor with no arguments in SpringBoot?
+
+	a.@NoArgaConstructor
+	b.@Lombok
+	c.@Data
+	d.@AutoLombak
+
+Correct answer: a
+
+70. What Annotation of Lombok is used to generate a constructor with all fields as arguments in SpringBoot?
+
+	a.@NoArgaConstructor
+	b.@AllArgsConstructor
+	c.@Data
+	d.@AutoLombak
+
+Correct answer: b
