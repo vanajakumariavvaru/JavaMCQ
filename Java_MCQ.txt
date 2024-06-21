@@ -930,3 +930,29 @@ Correct answer: a
 	  5
 
 Correct answer: a
+
+73. public static void myMethod(int x) {
+	System.out.println(x * 2);
+    }
+    public static void main(String[] args) {
+	Interview41 in = new Interview41();
+	in.myMethod(5);
+    }
+
+	a.10
+	b.Compiler error
+	c. Runtime Error
+		
+Correct answer: a
+
+74. public static void main(String[] args) {
+	String s = null;
+	System.out.println("Hello, " + s + "!");
+    }
+
+	a.Hello, null!
+	b.Compiler error
+	c.Runtime Error
+		
+Correct answer: a
+When a null reference is concatenated with a string, it is treated as the string “null”.
