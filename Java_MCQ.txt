@@ -956,3 +956,11 @@ Correct answer: a
 		
 Correct answer: a
 When a null reference is concatenated with a string, it is treated as the string “null”.
+
+75. What is the default Logging implementation offered by Spring Boot?
+
+	a.Using Log4j
+	b.By using Logback
+	c.By Using Java Util Logging 
+		
+Correct answer: b
