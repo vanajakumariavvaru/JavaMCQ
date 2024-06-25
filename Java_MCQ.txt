@@ -989,6 +989,7 @@ Correct answer: a
 	b.1,2,4
 	c.1,2,3,4
 	d.1,3,4
+
 Correct answer: a
 
 78. public static void main(String[] args) {
@@ -1000,6 +1001,7 @@ Correct answer: a
 	b.2.5
 	c.Exception
 	d.None of these
+
 Correct answer: b
 
 79. int a = 10;
@@ -1019,3 +1021,12 @@ Correct answer: b
           30
 	d.Compiler error
 Correct answer: a
+
+80. Difference between @RequestParam and @PathVariable?
+
+	a.@RequestParam extract values from query string, @PathVariable etract values from URI path
+	b. @PathVariable is not encoded, @requestParam is encoded
+	c.Above two statements are correct
+
+Correct answer: b
+
