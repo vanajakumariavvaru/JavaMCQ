@@ -1037,3 +1037,42 @@ Correct answer: b
 
 Correct answer: a
 
+82. static boolean hi;
+    public static void main(String[] args) {
+	System.out.println(hi);
+    }
+
+	a.hi
+	b.will not compile as boolean is not initialised, will not compile as boolean can never be static
+	c.By default, a boolean variable will contain false.
+
+Correct answer: c
+
+83. public static void main(String[] args) {
+	int a = 010;
+	int b = 07;
+	System.out.println(a);
+	System.out.println(b);
+    }
+
+	a.8 7
+	b.10,7
+	c.compiler error at line 3 and 4
+	d.None of these
+
+Correct answer: a
+Output: By placing a zero in front of the number is an integer in octal form. 010 is in octal form so its value is 8
+
+84. public static void main(String[] args) {
+	String s1 = "s1 = " + "123" +"456";
+	String s2 = "s2 = " + (123 +456);
+	System.out.println(s1);
+	System.out.println(s2);
+    }
+
+	a.s1 = 123456
+	  s2 = 579
+	b.s1 = 579
+	  s2 = 123456
+
+Correct answer: a
