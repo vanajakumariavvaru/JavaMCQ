@@ -1025,8 +1025,15 @@ Correct answer: a
 80. Difference between @RequestParam and @PathVariable?
 
 	a.@RequestParam extract values from query string, @PathVariable etract values from URI path
-	b. @PathVariable is not encoded, @requestParam is encoded
+	b.@PathVariable is not encoded, @requestParam is encoded
 	c.Above two statements are correct
 
 Correct answer: b
+
+81. Which is Maven Library, used to help in mapping ojects to DTO and vice versa, reducing the need for manual mapping code in Spring Boot?
+
+	a.ModelMapper
+	b.MobileMapper
+
+Correct answer: a
 
