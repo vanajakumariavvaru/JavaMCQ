@@ -1076,3 +1076,13 @@ Output: By placing a zero in front of the number is an integer in octal form. 01
 	  s2 = 123456
 
 Correct answer: a
+
+85. Which method is used to automatically map one object to another in ModelMapper of SpringBoot?
+
+	a.ModelMapper.map()
+	b.ModelMapper.auto()
+	c.ModelMapper.model()
+	d.ModelMapper.concat()
+
+Correct answer: a
+
