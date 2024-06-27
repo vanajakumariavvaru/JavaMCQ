@@ -1086,3 +1086,50 @@ Correct answer: a
 
 Correct answer: a
 
+86. static String name = "Java";
+	public void Main() {
+		String name = "JAVA";
+	}
+	public static void main(String[] args) {
+		System.out.println("The name is : " + name);
+	}
+
+	a.The name is : Java
+	b.The name is : JAVA
+
+Correct answer: a
+
+87. public static void main(String[] args) {
+	String s = null;
+        System.out.println(s);
+        System.out.println(s.toString());
+    }
+
+	a.null
+	  Exception 
+	b.null
+	  null
+	c.None of the above
+        
+
+Correct answer: a
+Output:
+null
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke "String.toString()" because "s" is null
+
+88. public static void main(String[] args) {
+		String temp = "10.87";
+		int a = Integer.parseInt(temp);
+		System.out.println(a);
+	}
+
+   	a.10.87
+	b.Compiler Error
+	c.Exception
+	
+Correct answer: a
+Output: Exception in thread "main" java.lang.NumberFormatException: For input string: "10.87"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at JavaInterviewQuestion.Interview51.main(Interview51.java:9)
