@@ -1118,10 +1118,10 @@ null
 Exception in thread "main" java.lang.NullPointerException: Cannot invoke "String.toString()" because "s" is null
 
 88. public static void main(String[] args) {
-		String temp = "10.87";
-		int a = Integer.parseInt(temp);
-		System.out.println(a);
-	}
+	String temp = "10.87";
+	int a = Integer.parseInt(temp);
+	System.out.println(a);
+    }
 
    	a.10.87
 	b.Compiler Error
@@ -1133,3 +1133,35 @@ Output: Exception in thread "main" java.lang.NumberFormatException: For input st
 	at java.base/java.lang.Integer.parseInt(Integer.java:668)
 	at java.base/java.lang.Integer.parseInt(Integer.java:786)
 	at JavaInterviewQuestion.Interview51.main(Interview51.java:9)
+
+89. public static void main(String[] args) {
+	int a = 10;
+	System.out.println(++a--);
+    }
+
+	a.11
+	b.10
+	c.Compiler error
+	d.Exception
+
+Correct answer: c
+Preincrement & Postincrement operators are not allowed on same variable and same time.
+
+90. public static void main(String[] args) {
+	Integer a = 100;
+	Integer b = 100;
+	Integer c = 1000;
+	Integer d = 1000;
+	System.out.println(a == b);
+	System.out.println(c == d);
+   }
+
+	a.true
+          false
+	b.true
+	  true
+	c.false
+	  true
+	d.Compiler Error
+
+Correct answer: c
