@@ -1164,4 +1164,35 @@ Preincrement & Postincrement operators are not allowed on same variable and same
 	  true
 	d.Compiler Error
 
+Correct answer: a
+
+91. public static void main(String[] args) {
+	int x = 5;
+	{
+	  int y = 6;
+	  System.out.println(x + " " + y);
+	}
+	  System.out.println(x + " " + y);
+	}
+
+	a.5 6
+	b.5 6 5 6
+	c.Compiler Error
+
 Correct answer: c
+
+92. public static void main(String[] args) {
+	String s = "Hello";
+	modifyString(s);
+	System.out.println(s);
+   }
+   public static void modifyString(String s) {
+	s = "Java";
+   }
+
+	a.Hello
+	b.Java
+	c.Compiler error
+	d.Exception
+
+Correct answer: a
