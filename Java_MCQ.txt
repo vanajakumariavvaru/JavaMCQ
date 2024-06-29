@@ -1196,3 +1196,40 @@ Correct answer: c
 	d.Exception
 
 Correct answer: a
+
+93. public static void main(String[] args) {
+	String s = "Value" + null;
+	System.out.println(s.length());
+    }
+
+	a.5
+	b.9
+	c.Compiler error
+
+Correct answer: b
+
+94. private static Object obj;
+	public static void main(String[] args) {		
+	System.out.println("Value of Object: "+ obj);
+    }
+
+	a.null
+	b.@765342778
+	c.Compiler error
+
+Correct answer: b
+
+95. public static void main(String[] args) {
+	int num = 1_00_00_000;
+	System.out.println("Inum: "+num);
+	int _a = 10;
+	System.out.println(_a);
+    }
+
+	a.Inum: 10000000
+	  10
+	b.Compiler error
+	c.Exception
+
+Correct answer: a
+
