@@ -1233,3 +1233,11 @@ Correct answer: b
 
 Correct answer: a
 
+96. What is the Purpose of @Service annotation in SpringBoot?
+
+	a.Spring Boot marks a class as Service provider
+	b.It holds Business logic
+	c.It makes the class detection for auto-detection and auto-correction
+	d.All of the above
+
+Correct answer: d
