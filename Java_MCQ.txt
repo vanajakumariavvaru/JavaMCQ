@@ -1250,3 +1250,30 @@ Correct answer: d
 	d.By replacing Maven with its own build system
 	
 Correct answer: a
+
+98. public static void main(String[] args) {
+	int ii = 0;
+	int jj = 7;
+	for(ii = 0; ii < jj-1; ii = ii+2)
+	{
+	     System.out.println(ii + " ");
+	}
+    }
+
+	a.0,2,4
+	b.0,2,4,6
+	c.2,4
+	d.compilation fails
+
+Correct answer: a
+
+99.public static void main(String[] args) {
+	int _a = 10;
+	System.out.println(_a);
+   }
+
+	a.10
+	b.Exception
+	c.compilation fails
+
+Correct answer: a
