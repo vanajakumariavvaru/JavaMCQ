@@ -1241,3 +1241,12 @@ Correct answer: a
 	d.All of the above
 
 Correct answer: d
+
+97.How does Spring Boot simplify Maven configuration?
+
+	a.By providing a parent POM for dependency management
+	b.By eliminating the need for a pom.xml file
+	c.By automatically generating Maven build scripts
+	d.By replacing Maven with its own build system
+	
+Correct answer: a
