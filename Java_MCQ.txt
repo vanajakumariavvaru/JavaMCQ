@@ -1277,3 +1277,14 @@ Correct answer: a
 	c.compilation fails
 
 Correct answer: a
+
+100. Which Spring Boot Starter dependency is essential for integrating Spring Security?
+
+	a.spring-boot-starter-auth
+	b.spring-boot-starter-secure
+	c.spring-boot-starter-oauth2
+	d.spring-boot-starter-security
+
+Correct answer: d
+
+101. 
