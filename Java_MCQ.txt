@@ -1314,4 +1314,43 @@ Correct answer: a
 
 Correct answer: a
 
-103. 
+103. int age;
+     public static void main(String[] args) {
+		System.out.println("your age is :" + age);
+     }
+
+	a.Make age static
+	b.Make age global
+	c.Make age public
+	d.Initialize age to a number
+
+Correct answer: a
+
+104. public static void main(String[] args) {
+	String s = "hi";
+	String t = "hi";
+	System.out.println(!s.equals(t));
+     }
+
+	a.true
+	b.false
+
+Correct answer: b
+
+105. public static void main(String[] args) {
+	int a = 10;
+	int b = 20;
+	if( a > 10)
+	if(b > 20) {
+		System.out.println(b);
+	}
+	else {
+		System.out.println(a);
+	}
+     }
+
+	a.20
+	b.10
+	c.Nothing Prints
+
+Correct answer: c
