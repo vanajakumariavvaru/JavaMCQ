@@ -1373,3 +1373,11 @@ Correct answer: d
 
 Correct answer: a
 
+108. What does Spring Security provide?
+
+	a.Authentication and Authorization support
+	b.Logging Support
+	c.Database Connectivity
+	d.Password Encryption
+
+Correct answer: a
