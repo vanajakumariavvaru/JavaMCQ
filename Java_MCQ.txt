@@ -1354,3 +1354,22 @@ Correct answer: b
 	c.Nothing Prints
 
 Correct answer: c
+
+106. By default, what is the username provided by Spring Boot Security?
+
+	a.admin
+	b.root
+	c.guest
+	d.user
+
+Correct answer: d
+
+107. How to enable method level security in Spring Boot? or How to add security to each method in Spring Boot Security?
+
+	a.@EnableMethodSecurity
+	b.@SecureMethods
+	c.@ActiveMethodSecurity
+	d.@ProtectMethod
+
+Correct answer: a
+
