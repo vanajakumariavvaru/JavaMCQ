@@ -1445,4 +1445,12 @@ From Java version 21, Normal Hello world program will exceute without main metho
 
 Correct answer: a
 
-114. 
+114. How to configure method- level security on Spring Security?
+
+	a.Using configuratiuon classes
+	b.Using @Secured annotation
+	c.Using XML configuration
+	d. All of the above
+
+Correct answer: d
+
