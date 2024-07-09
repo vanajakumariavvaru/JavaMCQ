@@ -1454,3 +1454,10 @@ Correct answer: a
 
 Correct answer: d
 
+115. What is Hashing in Spring Security? Hashing is used to store encrypted passwords in a database.Ex: A plain text(password) + "#"  = Hash value(76543)?
+
+	a.True
+	b.False
+
+Correct answer: a
+
