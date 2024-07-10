@@ -1461,3 +1461,16 @@ Correct answer: d
 
 Correct answer: a
 
+116. What is Authentication?
+
+	a.Who are you(Username and Password)
+	b.What you can do(Write or Read only access)
+
+Correct answer: a
+
+117. What is Authorisation?
+
+	a.Who are you(Username and Password)
+	b.What you can do(Write or Read only access)
+
+Correct answer: b
