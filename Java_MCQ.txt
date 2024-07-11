@@ -1474,3 +1474,11 @@ Correct answer: a
 	b.What you can do(Write or Read only access)
 
 Correct answer: b
+
+118. Salting in Spring Security is process of combining random data with a password before password hashing. It automatically applies salting since version 3.1. Ex: User password( OJPB1) + salt added (OJPB1+hdsf) -> Hashed Password +salt(777898uhg788hh + hdsf)?
+
+	a.True
+	b.False
+
+Correct answer: a
+
