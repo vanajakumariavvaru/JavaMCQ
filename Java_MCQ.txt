@@ -1482,3 +1482,15 @@ Correct answer: b
 
 Correct answer: a
 
+119. public static void main(String[] args) {
+        String str = "Java";
+        str.concat(" Programming");    
+	System.out.println(str);   
+     }
+
+	a.Java
+	b.Java Programming
+	c.Programming
+	d.Compiler error
+
+Correct answer: a
