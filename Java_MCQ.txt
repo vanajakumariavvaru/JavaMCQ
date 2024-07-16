@@ -1494,3 +1494,12 @@ Correct answer: a
 	d.Compiler error
 
 Correct answer: a
+
+120. By default, which URL is used for the Spring Security login page?
+
+	a.$ display
+	b.$ free
+	c.$ memory
+	d.$ system
+
+Correct answer: b
