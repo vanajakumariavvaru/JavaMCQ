@@ -1497,9 +1497,18 @@ Correct answer: a
 
 120. By default, which URL is used for the Spring Security login page?
 
-	a.$ display
-	b.$ free
-	c.$ memory
-	d.$ system
+	a./login
+	b./signin
+	c./auth
+	d./enter
 
-Correct answer: b
+Correct answer: a
+
+121. In Java, how should class names be written?
+
+	a.camelCase
+	b.snake_case
+	c.PascalCase
+	d.Kebab-case
+
+Correct answer: c
