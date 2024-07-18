@@ -1512,3 +1512,12 @@ Correct answer: a
 	d.Kebab-case
 
 Correct answer: c
+
+122. Which exception is thrown when java is out of memory?
+
+	a.MemoryError
+	b.OutOfMemoryError
+	c.MemoryOutOfBoundsException	
+	d.MemoryFullException
+
+Correct answer: b
