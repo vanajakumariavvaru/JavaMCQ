@@ -1521,3 +1521,12 @@ Correct answer: c
 	d.MemoryFullException
 
 Correct answer: b
+
+123. Which class represents the currently authenticated user in Spring Security?
+
+	a.CurrentUser
+	b.SecurityUser
+	c.Authentication	
+	d.AuthenticatedUser
+
+Correct answer: c
