@@ -1539,3 +1539,17 @@ Correct answer: c
 	d.int num1 = 0, num2 = 0;
 
 Correct answer: a
+
+125. public static void main(String args[]) 
+     {
+             double x = 3.14;      
+	     int y = (int) Math.ceil(x);    
+	     System.out.print(y);       
+     }
+
+	a.3
+	b.4
+	c.0
+	d.3.0
+
+Correct answer: b
