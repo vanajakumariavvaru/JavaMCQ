@@ -1553,3 +1553,12 @@ Correct answer: a
 	d.3.0
 
 Correct answer: b
+
+126. Which of these keywords are used for the block to be examined for exceptions?
+
+	a.check
+	b.throw
+	c.try
+	d.catch
+
+Correct answer: c
