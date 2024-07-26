@@ -1577,3 +1577,13 @@ Correct answer: c
 
 Correct answer:1
 Output: i.byteValue() method returns the value of wrapper i as a byte value. i is 257, range of byte is 256 therefore i value exceeds byte range by 1 hence 1 is returned and stored in x.
+
+128. Which component is used to compile, debug and execute the java programs?
+
+	a.JVM
+	b.JRE
+	c.JDK
+
+Correct answer:c
+Output: JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program.
+
