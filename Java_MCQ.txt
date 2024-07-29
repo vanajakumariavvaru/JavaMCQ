@@ -1587,3 +1587,12 @@ Output: i.byteValue() method returns the value of wrapper i as a byte value. i i
 Correct answer:c
 Output: JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program.
 
+129. Which of these cannot be used for a variable name in Java?
+
+	a.identifier and keyword
+	b.identifier
+	c.keyword
+	d.None of the abive
+
+Correct answer:c
+Keywords are specially reserved words that can not be used for naming a user-defined variable, for example: class, int, for, etc.
