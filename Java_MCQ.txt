@@ -1596,3 +1596,24 @@ Output: JDK is a core component of Java Environment and provides all the tools, 
 
 Correct answer:c
 Keywords are specially reserved words that can not be used for naming a user-defined variable, for example: class, int, for, etc.
+
+130. public static void main(String args[]) 
+     {
+	int x = 5; 
+	{      
+	    int y = 6;      
+	    System.out.print(x + " " + y);    
+	}            
+	System.out.println(x + " " + y);      
+     }
+
+	a.5 6 5 6
+	b.5 6 5
+	c.Compiletime Error
+	d.Runtime Error
+
+Correct answer:c
+Second print statement doesn’t have access to y , scope y was limited to the block defined after initialization of x.
+Output:
+$ javac variable_scope.java
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: y cannot be resolved to a variable
