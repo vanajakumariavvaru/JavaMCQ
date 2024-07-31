@@ -1617,3 +1617,13 @@ Second print statement doesn’t have access to y , scope y was limited to the b
 Output:
 $ javac variable_scope.java
 Exception in thread "main" java.lang.Error: Unresolved compilation problem: y cannot be resolved to a variable
+
+131. byte b = 50;
+     b = b * 50;
+
+	a.b cannot contain value 50
+	b.b cannot contain value 100, limited by its range
+	c.No error in this code
+	d.* operator has converted b * 50 into int, which can not be converted to byte without casting
+	
+Correct answer:d
