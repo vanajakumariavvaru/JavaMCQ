@@ -1627,3 +1627,12 @@ Exception in thread "main" java.lang.Error: Unresolved compilation problem: y ca
 	d.* operator has converted b * 50 into int, which can not be converted to byte without casting
 	
 Correct answer:d
+
+132. What is the extension of compiled java classes?
+
+	a..txt
+	b..java
+	c..class
+	d..js
+	
+Correct answer:c
