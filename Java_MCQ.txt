@@ -1636,3 +1636,12 @@ Correct answer:d
 	d..js
 	
 Correct answer:c
+
+133. Which environment variable is used to set the java path?
+
+	a.MAVEN_Path
+	b.JavaPATH
+	c.JAVA
+	d.JAVA_HOME
+	
+Correct answer:d
