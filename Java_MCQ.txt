@@ -1645,3 +1645,11 @@ Correct answer:c
 	d.JAVA_HOME
 	
 Correct answer:d
+
+134. What is Docker?
+
+	a.Open Source Platform
+	b.Helps developers to build,test and deploy applications quickly
+	c.All of the above
+
+Correct answer:c
