@@ -1653,3 +1653,16 @@ Correct answer:d
 	c.All of the above
 
 Correct answer:c
+
+135. public static void main(String args[])
+     {
+        if(args.length>0)    
+	System.out.println(args.length);  
+     }
+
+	a.The snippet compiles and runs but does not print anything
+	b.The snippet compiles, runs and prints 0
+	c.The snippet compiles, runs and prints 1
+	d.The snippet does not compile
+	
+Correct answer:a
