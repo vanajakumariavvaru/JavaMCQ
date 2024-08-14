@@ -1683,3 +1683,16 @@ Correct answer:a
 	d.[A, D, B, C]
 	
 Correct answer:d
+
+137. public interface Sample
+     {
+        (?) int MY_VALUE = 10; 
+     } 
+     choose 3 valid data-type attributes/qualifiers among “final, static, native, public, private, abstract, protected"
+
+	a.final, native, private
+	b.final, static, protected
+	c.final, private, abstract
+	d.final, static, public
+	
+Correct answer:d
