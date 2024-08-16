@@ -1696,3 +1696,15 @@ Correct answer:d
 	d.final, static, public
 	
 Correct answer:d
+
+138. Which of the following is incorrect?
+
+	a.class student{ }s;
+	b.class student{ }; student s;
+	c.class student{ }s[];
+	d.class student{ }; student s[5];
+	
+Correct answer:c
+The array must be specified with a size. You can’t declare object array, or any other linear array without specifying its size. It’s a mandatory field.
+
+139.
