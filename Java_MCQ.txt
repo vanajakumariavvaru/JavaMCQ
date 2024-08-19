@@ -1707,4 +1707,11 @@ Correct answer:d
 Correct answer:c
 The array must be specified with a size. You can’t declare object array, or any other linear array without specifying its size. It’s a mandatory field.
 
-139.
+139. Which of the following best defines a class?
+
+	a.Parent of an Object
+	b.Instance of an object
+	c.Blueprint of an object
+	d.Scope of an object
+
+Correct answer:c
