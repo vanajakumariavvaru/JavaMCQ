@@ -1715,3 +1715,12 @@ The array must be specified with a size. You can’t declare object array, or an
 	d.Scope of an object
 
 Correct answer:c
+
+140. Who invented "OOP" - Object Oriented Programming?
+
+	a.Alan Kay
+	b.Andrea Ferro
+	c.Dennis Ritchie
+	d.Adele Goldberg
+
+Correct answer:a
