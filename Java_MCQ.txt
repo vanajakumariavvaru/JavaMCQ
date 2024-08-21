@@ -1724,3 +1724,12 @@ Correct answer:c
 	d.Adele Goldberg
 
 Correct answer:a
+
+141. Which was the first purely object oriented programming language developed?
+
+	a.Java
+	b.C++
+	c.SmallTalk
+	d.Kotlin
+
+Correct answer:c
