@@ -1733,3 +1733,12 @@ Correct answer:a
 	d.Kotlin
 
 Correct answer:c
+
+142. What is Truncation in Java?
+
+	a.Floating-point value assigned to a Floating type
+	b.Floating-point value assigned to an integer type
+	c.Integer value assigned to floating type
+	d.Integer value assigned to floating type
+
+Correct answer:b
