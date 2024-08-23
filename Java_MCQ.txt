@@ -1742,3 +1742,13 @@ Correct answer:c
 	d.Integer value assigned to floating type
 
 Correct answer:b
+
+143. Which of the following has the highest memory requirement?
+
+	a.Heap
+	b.Stack
+	c.JVM
+	d.class
+
+Correct answer:c
+JVM is the super set which contains heap, stack, objects, pointers, etc.
