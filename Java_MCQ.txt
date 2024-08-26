@@ -1752,3 +1752,11 @@ Correct answer:b
 
 Correct answer:c
 JVM is the super set which contains heap, stack, objects, pointers, etc.
+
+144. What is the stored in the object obj?                       
+     Sample obj;
+
+	a.Memory is allocated to an object
+	b.NULL
+
+Correct answer:b
