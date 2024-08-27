@@ -1760,3 +1760,12 @@ JVM is the super set which contains heap, stack, objects, pointers, etc.
 	b.NULL
 
 Correct answer:b
+
+145 Which of these is used to access a member of class before object of that class is created?
+
+	a.public
+	b.private
+	c.static
+	d.protected
+
+Correct answer:c
