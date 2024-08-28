@@ -1769,3 +1769,12 @@ Correct answer:b
 	d.protected
 
 Correct answer:c
+
+146. Which of these keywords cannot be used for a class which has been declared final?
+
+	a.abstract
+	b.extends
+	c.abstract and extends
+	d.None of the above
+
+Correct answer:a
