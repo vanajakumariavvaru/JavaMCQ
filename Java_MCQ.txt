@@ -1778,3 +1778,12 @@ Correct answer:c
 	d.None of the above
 
 Correct answer:a
+
+147. JIT full form?
+
+	a.Java Interpreter Time
+	b.Just In Time Compiler
+	c.Just Interpreter Time
+	d.Java In Time Compiler
+
+Correct answer:b
