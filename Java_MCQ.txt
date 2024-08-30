@@ -1787,3 +1787,10 @@ Correct answer:a
 	d.Java In Time Compiler
 
 Correct answer:b
+
+148. What is Metacharacter in Java Regular Expressions?
+
+	a.Long code for uncommon matching patterns 
+	b.Short code for common matching patterns
+
+Correct answer:b
