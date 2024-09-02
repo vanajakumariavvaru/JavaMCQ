@@ -1794,3 +1794,11 @@ Correct answer:b
 	b.Short code for common matching patterns
 
 Correct answer:b
+
+149. A reference variable in java is
+
+	a.A variable referring or pointing to an object of a class
+	b.An alias to the instance variable of the class
+	c.All of the above
+	
+Correct answer:a
