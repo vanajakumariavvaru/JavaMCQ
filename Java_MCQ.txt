@@ -1802,3 +1802,10 @@ Correct answer:b
 	c.All of the above
 	
 Correct answer:a
+
+150. An instance variable in Java is
+
+	a.A variable belonging to the class and can be accessed through the class name
+	b.A variable belonging to an instance of a class and can be accessed through the reference variable of the class
+	
+Correct answer:b
