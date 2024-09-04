@@ -1809,3 +1809,10 @@ Correct answer:a
 	b.A variable belonging to an instance of a class and can be accessed through the reference variable of the class
 	
 Correct answer:b
+
+151. An object in java can be referenced by multiple reference variables?
+
+	a.True
+	b.False
+
+Correct answer:a
