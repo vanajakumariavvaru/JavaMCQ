@@ -1816,3 +1816,11 @@ Correct answer:b
 	b.False
 
 Correct answer:a
+
+152. A local class in java is ________
+
+	a.A class having all its methods as abstract
+	b.A class having all the members belonging to a method or a block
+	c.A type of inner class specified inside a block for e.g. inside a constructor, a method, or an initializer
+
+Correct answer:c
