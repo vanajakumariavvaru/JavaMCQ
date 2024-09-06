@@ -1824,3 +1824,11 @@ Correct answer:a
 	c.A type of inner class specified inside a block for e.g. inside a constructor, a method, or an initializer
 
 Correct answer:c
+
+153. An Identifier in Java is?
+
+	a.A keyword in java
+	b.A name given to a variable, class, method, and labels
+	c.A value denoting a constant
+
+Correct answer:b
