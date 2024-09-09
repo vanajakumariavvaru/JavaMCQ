@@ -1832,3 +1832,14 @@ Correct answer:c
 	c.A value denoting a constant
 
 Correct answer:b
+
+154. Which of the following is not an Integer data type?
+
+	a.int
+	b.double
+	c.byte
+	d.long
+	e.short
+
+Correct answer:b
+Double is a Float Data Type
