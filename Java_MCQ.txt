@@ -1843,3 +1843,19 @@ Correct answer:b
 
 Correct answer:b
 Double is a Float Data Type
+
+155. public class Fixed
+     {
+	final static int a=9;
+	public static void main(String[] args)
+	{ 
+		a++;
+		System.out.println(a);
+	}
+     }
+
+	a.10
+	b.9
+	c.Compiler Error
+
+Correct answer:c
