@@ -1859,3 +1859,10 @@ Double is a Float Data Type
 	c.Compiler Error
 
 Correct answer:c
+
+156.'this' reference keyword cannot be used in a static context/static block?
+
+	a.True
+	b.False
+
+Correct answer:a
