@@ -1866,3 +1866,10 @@ Correct answer:c
 	b.False
 
 Correct answer:a
+
+157. 'super' reference keyword can be used in a static context/static block?
+
+	a.True
+	b.False
+
+Correct answer:b
