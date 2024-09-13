@@ -1873,3 +1873,12 @@ Correct answer:a
 	b.False
 
 Correct answer:b
+
+158. The public member of a class can be accessible?
+
+	a.Within the class in which it is declared
+	b.Within the package containing its class
+	c.Other packages where this class is visible
+	d.All of the above
+
+Correct answer:d
