@@ -1882,3 +1882,12 @@ Correct answer:b
 	d.All of the above
 
 Correct answer:d
+
+159. What is Docker?
+
+	a.Programming Language
+	b.Text Editor
+	c.Containerization Platform
+	d.Web Server
+
+Correct answer:c
