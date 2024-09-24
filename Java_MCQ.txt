@@ -1891,3 +1891,13 @@ Correct answer:d
 	d.Web Server
 
 Correct answer:c
+
+160. int ++a = 100;                      
+     System.out.println(++a);
+
+	a.100
+	b.101
+	c.Compiler Error
+	d.Runtime Error
+
+Correct answer:c
