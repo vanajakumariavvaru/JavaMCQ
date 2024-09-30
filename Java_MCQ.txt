@@ -1901,3 +1901,13 @@ Correct answer:c
 	d.Runtime Error
 
 Correct answer:c
+
+161. What is Virtual Machine?
+
+	a.A type of physical machine
+	b.A software emul;ation of a physical computer
+	c.A tool for managing hardware
+	d.A cloud storage service
+
+Correct answer:b
+
